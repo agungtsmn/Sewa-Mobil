@@ -1,7 +1,7 @@
 # Sewa-Mobil
 Aplikasi penyewaan mobil - Tes Coding PT. Transindo Data Perkasa 
 
-#Setup
+# Setup
 1. Clone
 2. Copy .env.example -> .env
 3. Ubah Filesystem Disk menjadi public
