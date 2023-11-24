@@ -11,7 +11,7 @@ Aplikasi penyewaan mobil - Tes Coding PT. Transindo Data Perkasa
 7. Running -> php artisan serve
 
 Akun yang sudah terdaftar
-1. username  : admin
+1. username  : admin \n
    password  : admin
 2. username  : agungtsmn
    password  : agungtsmn
