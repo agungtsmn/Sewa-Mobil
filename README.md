@@ -10,7 +10,7 @@ Aplikasi penyewaan mobil - Tes Coding PT. Transindo Data Perkasa
 6. Seed -> php artisan db:seed
 7. Running -> php artisan serve
 
-Akun yang sudah terdaftar (jika import database)
+Akun yang sudah terdaftar (jika import database sewa_mobil yang ada di dalam folder root)
 1. username  : admin |
    password  : admin
 2. username  : agungtsmn |
