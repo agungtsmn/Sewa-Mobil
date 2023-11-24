@@ -5,13 +5,14 @@ Aplikasi penyewaan mobil - Tes Coding PT. Transindo Data Perkasa
 # Setup
 1. Clone
 2. Copy .env.example -> .env
-3. Ubah Filesystem Disk menjadi public
-4. Intal composer -> $ composer intall
-5. Generate key -> $ php artisan key:generate
-6. Symlink Storage -> $ php artisan storage:link
-7. Migrate -> $ php artisan migrate
-8. Seed -> $ php artisan db:seed
-9. Running -> $ php artisan serve
+3. Ubah App Url ke nama domain Ex : http://127.0.0.1:8000
+4. Ubah Filesystem Disk menjadi public
+5. Intal composer -> $ composer intall
+6. Generate key -> $ php artisan key:generate
+7. Symlink Storage -> $ php artisan storage:link
+8. Migrate -> $ php artisan migrate
+9. Seed -> $ php artisan db:seed
+10. Running -> $ php artisan serve
 
 Akun yang sudah terdaftar (jika import database sewa_mobil yang ada di dalam folder root)
 1. username  : admin |
